@@ -9,12 +9,14 @@ Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futu
 
 <p align="left">
   <strong>Linguagens:</strong><br>
+  
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
 <p align="left">
   <strong>Ferramentas e Tecnologias:</strong><br>
+  
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg/2048px-Microsoft_Excel_Logo_%282013-2019%29.svg.png" alt="Microsoft Excel" width="40" height="40"/></a>
