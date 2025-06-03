@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
 
-Sou estudante de Ciência da Computação e aspirante a **Analista de Dados**, minha paixão é explorar o universo dos dados para encontrar padrões, resolver problemas e gerar insights.
-
-Atualmente, foco meus estudos e projetos na aplicação prática de ferramentas essenciais para a área.
+Olá! Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futuro profissional. Adoro mergulhar em conjuntos de dados para descobrir as histórias que eles contam e as soluções que escondem. Atualmente, foco meus estudos e projetos na aplicação prática de ferramentas como Python, SQL e Power BI.
 
 ---
 
@@ -34,6 +32,11 @@ Atualmente, foco meus estudos e projetos na aplicação prática de ferramentas 
   </p>
 
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tisilvar&repo=meus-estudos-python&theme=transparent)](https://github.com/tisilvar/github-readme-stats)
+
+---
 
 ### ⭐ Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tisilvar&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tisilvar&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisilvar&layout=compact&theme=transparent)](https://github.com/tisilvar/github-readme-stats)
+
