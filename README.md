@@ -1,8 +1,7 @@
 ## Olá, meu nome é Tiago! 👋🏾
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
-
-Olá! Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futuro profissional. Adoro mergulhar em conjuntos de dados para descobrir as histórias que eles contam e as soluções que escondem. Atualmente, foco meus estudos e projetos na aplicação prática de ferramentas como Python, SQL e Power BI.
+Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futuro profissional. Adoro mergulhar em conjuntos de dados para descobrir as histórias que eles contam e as soluções que escondem. Atualmente, foco meus estudos e projetos na aplicação prática de ferramentas como Python, SQL e Power BI.
 
 ---
 
