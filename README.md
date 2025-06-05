@@ -33,7 +33,7 @@ Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futu
   </p>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tisilvar&repo=meus-estudos-python&theme=transparent)](https://github.com/tisilvar/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tisilvar&repo=meus-estudos-python&theme=transparent)](https://github.com/tisilvar/meus-estudos-python)
 
 ---
 
