@@ -34,6 +34,7 @@ Sou estudante de Ciência da Computação e vejo na Análise de Dados o meu futu
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tisilvar&repo=meus-estudos-python&theme=transparent)](https://github.com/tisilvar/meus-estudos-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tisilvar&repo=Estudos-SQL&theme=transparent)](https://github.com/tisilvar/Estudos-SQL)
 
 ---
 
